@@ -4,6 +4,6 @@
     <h2>It's working on Tomcat server(10.1.6)!</h2>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 1.1</h3>
+    <h3>Version: 1.2</h3>
   </body>
 </html>
